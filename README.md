@@ -9,10 +9,17 @@ The idea is to create a repository for any programming language and inside creat
 --Make it Simpler
 
   -/ JavaScript
+  
     -/ Lesson 01
+    
       -/ start
+      
         -/ index.js //example code 
+        
         -/ description.txt //why is this on that way
+        
       -/ finish
+      
         -/ index.js //how code shoud look after tut
+        
         -/ final.txt // optional
